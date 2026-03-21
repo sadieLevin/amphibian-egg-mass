@@ -12,19 +12,25 @@ EggMassSubstrate VARCHAR(63),
 Comments VARCHAR(255)
 );
 
-CREATE TABLE staging_weather(
-time VARCHAR(63),
-temperature_2m_mean_C VARCHAR(63),
-sunshine_duration_s VARCHAR(63),
-precipitation_sum_mm VARCHAR(63),
-rain_sum_mm VARCHAR(63),
-snowfall_sum_cm VARCHAR(63),
-wind_speed_10m_max_kmh VARCHAR(63)
+CREATE TABLE staging_weather(    
+latitude VARCHAR(255),
+longitude VARCHAR(255),
+elevation VARCHAR(255),
+utc_offset_seconds VARCHAR(255),
+timezone VARCHAR(255),
+timezone_abbreviation VARCHAR(255)
 );
 
-\copy staging_masses(
+COPY staging_masses(
     SurveyID,DateTime,Latitude,Longitude,Accuracy_m,NumberOfEggMasses,SpeciesCode,EggMassSubstrate,Comments
 )
-FROM './data/EggMasses.csv'
+FROM '/var/lib/postgres/engineering/amphibian-egg-mass/data/EggMasses.csv'
+DELIMITER ','
+CSV HEADER;
+
+COPY staging_weather(
+latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
+)
+FROM '/var/lib/postgres/engineering/amphibian-egg-mass/data/open-meteo-47.63N122.17W179m.csv'
 DELIMITER ','
 CSV HEADER;
