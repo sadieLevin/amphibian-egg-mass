@@ -1,0 +1,241 @@
+SurveyID,Latitude,Longitude,Accuracy_m,Date,StartTime,EndTime,SurveyLength,SurveyLengthCalc,latest_observation_time,Lake,Observer,Sky,Precip,Wind,AirThermometer,AirTemperature_F,WaterThermometer,WaterTemperature_F,WaterColor,SurveyType,Comments,SpeciesCode,NumberOfEggMasses,NumberOfAdults,Weather
+14 Lakes_2002-03-28_1,NA,NA,NA,2002-03-28,NA,NA,NA,NA,NA,14 Lakes,Barnett,NA,NA,NA,NA,42.8,NA,42,NA,NA,"Predated, pulled up on log",AMGR,1,NA,NA
+14 Lakes_2002-04-17_1,NA,NA,NA,2002-04-17,NA,NA,NA,NA,NA,14 Lakes,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,Many AMGR egg masses,AMGR,NA,NA,NA
+14 Lakes_2002-04-17_1,NA,NA,NA,2002-04-17,NA,NA,NA,NA,NA,14 Lakes,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,Many PRSE egg masses,PSRE,NA,NA,NA
+14 Lakes_2002-04-17_1,NA,NA,NA,2002-04-17,NA,NA,NA,NA,NA,14 Lakes,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,8,NA,NA
+14 Lakes_2002-07-15_1,NA,NA,NA,2002-07-15,NA,NA,NA,NA,NA,14 Lakes,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tadpoles were abundant and beginning to metamorphose.,PSRE,NA,NA,NA
+14 Lakes_2002-07-15_1,NA,NA,NA,2002-07-15,NA,NA,NA,NA,NA,14 Lakes,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tadpoles were abundant and beginning to metamorphose.,RAAU,NA,NA,NA
+Big Lake_2003-03-25_1,NA,NA,NA,2003-03-25,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,45.5,NA,NA,NA,AMGR,54,9,NA
+Big Lake_2003-03-25_1,NA,NA,NA,2003-03-25,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,45.5,NA,NA,NA,AMMA,NA,11,NA
+Big Lake_2003-03-25_1,NA,NA,NA,2003-03-25,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,45.5,NA,NA,NA,PSRE,6,3,NA
+Big Lake_2003-03-25_1,NA,NA,NA,2003-03-25,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,45.5,NA,NA,"3 adult frogs predated, 1 injured",RAAU,72,4,NA
+Big Lake_2003-03-25_1,NA,NA,NA,2003-03-25,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,45.5,NA,NA,NA,TAGR,NA,14,NA
+Deep Lake_2003-03-25_1,NA,NA,NA,2003-03-25,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,45.5,NA,NA,NA,AMMA,1,NA,NA
+Deep Lake_2003-03-25_1,NA,NA,NA,2003-03-25,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,45.5,NA,NA,NA,RAAU,292,NA,NA
+Small Lake_2003-03-25_1,NA,NA,NA,2003-03-25,NA,NA,NA,NA,NA,Small Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,45.5,NA,NA,NA,AMGR,12,NA,NA
+Small Lake_2003-03-25_1,NA,NA,NA,2003-03-25,NA,NA,NA,NA,NA,Small Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,45.5,NA,NA,NA,AMMA,1,1,NA
+Big Lake_2004-03-23_1,NA,NA,NA,2004-03-23,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,50.3,NA,56.1,NA,NA,NA,AMGR,2,NA,NA
+Big Lake_2004-03-23_1,NA,NA,NA,2004-03-23,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,50.3,NA,56.1,NA,NA,NA,PSRE,111,NA,NA
+Big Lake_2004-03-23_1,NA,NA,NA,2004-03-23,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,50.3,NA,56.1,NA,NA,NA,RAAU,262,NA,NA
+Deep Lake_2004-03-23_1,NA,NA,NA,2004-03-23,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,50.3,NA,52.3,NA,NA,NA,AMGR,33,3,NA
+Deep Lake_2004-03-23_1,NA,NA,NA,2004-03-23,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,50.3,NA,52.3,NA,NA,NA,PSRE,153,NA,NA
+Deep Lake_2004-03-23_1,NA,NA,NA,2004-03-23,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,50.3,NA,52.3,NA,NA,NA,RAAU,283,NA,NA
+Big Lake_2005-04-01_1,NA,NA,NA,2005-04-01,NA,NA,NA,NA,NA,Big Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,1,NA,NA
+Big Lake_2005-04-01_1,NA,NA,NA,2005-04-01,NA,NA,NA,NA,NA,Big Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,Many PRSE egg masses,PSRE,NA,NA,NA
+Big Lake_2005-04-01_1,NA,NA,NA,2005-04-01,NA,NA,NA,NA,NA,Big Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,67,NA,NA
+Deep Lake_2005-04-01_1,NA,NA,NA,2005-04-01,NA,NA,NA,NA,NA,Deep Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,82,NA,NA
+Deep Lake_2005-04-01_1,NA,NA,NA,2005-04-01,NA,NA,NA,NA,NA,Deep Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,Many PRSE egg masses,PSRE,NA,NA,NA
+Deep Lake_2005-04-01_1,NA,NA,NA,2005-04-01,NA,NA,NA,NA,NA,Deep Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,628,1,NA
+Small Lake_2005-04-01_1,NA,NA,NA,2005-04-01,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,106,NA,NA
+Small Lake_2005-04-01_1,NA,NA,NA,2005-04-01,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,21,NA,NA
+Small Lake_2005-04-01_1,NA,NA,NA,2005-04-01,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,45,2,NA
+Big Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Big Lake,"Barnett, Borsting, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,2,NA,NA
+Big Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Big Lake,"Barnett, Borsting, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMMA,4,NA,NA
+Big Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Big Lake,"Barnett, Borsting, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,High water,PSRE,1,2,"Overcast, windy, no rain"
+Big Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Big Lake,"Barnett, Borsting, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,252,NA,NA
+Blackberry Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Blackberry Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,2,NA,NA
+Blackberry Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Blackberry Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,127,NA,NA
+Deep Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,14,NA,NA
+Deep Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,NA,1,NA
+Deep Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,High water,RAAU,515,NA,NA
+Small Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMMA,1,NA,NA
+Small Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,High water,RAAU,55,NA,NA
+Wood Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Wood Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,14,NA,NA
+Wood Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Wood Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,5,NA,NA
+Wood Lake_2006-03-23_1,NA,NA,NA,2006-03-23,NA,NA,NA,NA,NA,Wood Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,High water.  Adult was dead,RAAU,584,1,NA
+Big Lake_2007-03-27_1,NA,NA,NA,2007-03-27,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,0,NA,NA
+Big Lake_2007-03-27_1,NA,NA,NA,2007-03-27,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,lots of PSRE egg masses,PSRE,NA,NA,NA
+Big Lake_2007-03-27_1,NA,NA,NA,2007-03-27,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,High water,RAAU,32,NA,NA
+Blackberry Lake_2007-03-27_1,NA,NA,NA,2007-03-27,NA,NA,NA,NA,NA,Blackberry Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,27,NA,NA
+Deep Lake_2007-03-27_1,NA,NA,NA,2007-03-27,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,lots of PSRE egg masses,PSRE,NA,NA,NA
+Deep Lake_2007-03-27_1,NA,NA,NA,2007-03-27,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,High water,RAAU,159,NA,NA
+Small Lake_2007-03-27_1,NA,NA,NA,2007-03-27,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,1,NA,NA
+Small Lake_2007-03-27_1,NA,NA,NA,2007-03-27,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,48,NA,"overcast, dark, rain"
+Wood Lake_2007-03-27_1,NA,NA,NA,2007-03-27,NA,NA,NA,NA,NA,Wood Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,Unable to survey - water levels too high,NA,NA,NA,NA
+Big Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,44,NA,NA
+Big Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,7,NA,NA
+Big Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,344,NA,NA
+Blackberry Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Blackberry Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,30,NA,NA
+Blackberry Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Blackberry Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,18,NA,NA
+Blackberry Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Blackberry Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,430,NA,NA
+Deep Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,11,NA,NA
+Deep Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,351,NA,NA
+Small Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Small Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,84,NA,NA
+Small Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Small Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,142,NA,"Clear, sun, later clouds"
+Wood Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Wood Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,49,NA,NA
+Wood Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Wood Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,4,NA,NA
+Wood Lake_2008-03-25_1,NA,NA,NA,2008-03-25,NA,NA,NA,NA,NA,Wood Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,511,NA,NA
+Blackberry Lake_2009-03-26_1,NA,NA,NA,2009-03-26,NA,NA,NA,NA,NA,Blackberry Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,0,NA,NA
+Blackberry Lake_2009-03-26_1,NA,NA,NA,2009-03-26,NA,NA,NA,NA,NA,Blackberry Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,0,NA,NA
+Blackberry Lake_2009-03-26_1,NA,NA,NA,2009-03-26,NA,NA,NA,NA,NA,Blackberry Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,209,NA,"Cold, calm, snow on ground"
+Wood Lake_2009-03-26_1,NA,NA,NA,2009-03-26,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,3,NA,NA
+Wood Lake_2009-03-26_1,NA,NA,NA,2009-03-26,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,2,NA,NA
+Wood Lake_2009-03-26_1,NA,NA,NA,2009-03-26,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,394,NA,NA
+Big Lake_2009-03-30_1,NA,NA,NA,2009-03-30,NA,NA,NA,NA,NA,Big Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,14,NA,NA
+Big Lake_2009-03-30_1,NA,NA,NA,2009-03-30,NA,NA,NA,NA,NA,Big Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,143,NA,NA
+Deep Lake_2009-03-30_1,NA,NA,NA,2009-03-30,NA,NA,NA,NA,NA,Deep Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,11,NA,NA
+Deep Lake_2009-03-30_1,NA,NA,NA,2009-03-30,NA,NA,NA,NA,NA,Deep Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,2,NA,NA
+Deep Lake_2009-03-30_1,NA,NA,NA,2009-03-30,NA,NA,NA,NA,NA,Deep Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,493,NA,NA
+Small Lake_2009-03-30_1,NA,NA,NA,2009-03-30,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,9,NA,NA
+Small Lake_2009-03-30_1,NA,NA,NA,2009-03-30,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,2,NA,NA
+Small Lake_2009-03-30_1,NA,NA,NA,2009-03-30,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,110,NA,"Clear, calm, cold (light snow on ground)"
+Big Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Big Lake,"Barnett, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,152,NA,NA
+Big Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Big Lake,"Barnett, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,81,NA,NA
+Big Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Big Lake,"Barnett, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,496,NA,NA
+Blackberry Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Blackberry Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,93,NA,NA
+Blackberry Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Blackberry Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,67,NA,NA
+Blackberry Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Blackberry Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,129,NA,NA
+Deep Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,11,NA,NA
+Deep Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,18,NA,NA
+Deep Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Richards",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,123,NA,NA
+Small Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,87,NA,NA
+Small Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,13,NA,NA
+Small Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,128,NA,"Clear, sun, calm"
+Wood Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Wood Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,141,NA,NA
+Wood Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Wood Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,101,NA,NA
+Wood Lake_2010-03-22_1,NA,NA,NA,2010-03-22,NA,NA,NA,NA,NA,Wood Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,272,NA,NA
+Big Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Big Lake,"Barnett, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,0,NA,NA
+Big Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Big Lake,"Barnett, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,0,NA,NA
+Big Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Big Lake,"Barnett, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,11,NA,NA
+Blackberry Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Blackberry Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No survey - water level too hgih,NA,NA,NA,NA
+Deep Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,2,NA,NA
+Deep Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,3,NA,NA
+Deep Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,13,NA,NA
+Small Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,2,NA,NA
+Small Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,0,NA,NA
+Small Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,0,NA,"Part sun, calm"
+Wood Lake_2011-03-28_1,NA,NA,NA,2011-03-28,NA,NA,NA,NA,NA,Wood Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No survey - water level too hgih,NA,NA,NA,NA
+Blackberry Lake_2012-03-01_1,NA,NA,NA,2012-03-01,NA,NA,NA,NA,NA,Blackberry Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not surveyed water levels too high,NA,NA,NA,NA
+Small Lake_2012-03-26_1,NA,NA,NA,2012-03-26,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,0,NA,NA
+Small Lake_2012-03-26_1,NA,NA,NA,2012-03-26,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,0,NA,NA
+Small Lake_2012-03-26_1,NA,NA,NA,2012-03-26,NA,NA,NA,NA,NA,Small Lake,Barnett,NA,NA,NA,NA,NA,NA,NA,NA,NA,Water levels very high,RAAU,19,NA,NA
+Wood Lake_2012-03-26_1,NA,NA,NA,2012-03-26,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,0,NA,NA
+Wood Lake_2012-03-26_1,NA,NA,NA,2012-03-26,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,0,NA,NA
+Wood Lake_2012-03-26_1,NA,NA,NA,2012-03-26,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,23,NA,NA
+Big Lake_2012-04-17_1,NA,NA,NA,2012-04-17,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,0,NA,NA
+Big Lake_2012-04-17_1,NA,NA,NA,2012-04-17,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,0,NA,NA
+Big Lake_2012-04-17_1,NA,NA,NA,2012-04-17,NA,NA,NA,NA,NA,Big Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,Snorkel survey,RAAU,271,NA,NA
+Deep Lake_2012-04-17_1,NA,NA,NA,2012-04-17,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,0,NA,NA
+Deep Lake_2012-04-17_1,NA,NA,NA,2012-04-17,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,0,NA,NA
+Deep Lake_2012-04-17_1,NA,NA,NA,2012-04-17,NA,NA,NA,NA,NA,Deep Lake,"Barnett, Nickelson",NA,NA,NA,NA,NA,NA,NA,NA,NA,Snorkel survey,RAAU,127,NA,NA
+Big Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Big Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,58,NA,NA
+Big Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Big Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,3,NA,NA
+Big Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Big Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,86,NA,NA
+Blackberry Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Blackberry Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,28,NA,NA
+Blackberry Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Blackberry Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,1,NA,NA
+Blackberry Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Blackberry Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,126,NA,NA
+Deep Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Deep Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,67,NA,NA
+Deep Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Deep Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,17,NA,NA
+Deep Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Deep Lake,"Nickelson, Chapin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,83,NA,NA
+Small Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,152,NA,NA
+Small Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,2,NA,NA
+Small Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,66,NA,"Overcast, some drizzle"
+Wood Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,40,NA,NA
+Wood Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSRE,0,NA,NA
+Wood Lake_2013-04-02_1,NA,NA,NA,2013-04-02,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,82,NA,NA
+Big Lake_2014-03-24_1,NA,NA,NA,2014-03-24,NA,NA,NA,NA,NA,Big Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Water high. Surveyed sunny side - no egg masses found [2024 note- the ""sunny side"" likely refers to surveying the North lakeshore only]",AMGR,0,NA,NA
+Big Lake_2014-03-24_1,NA,NA,NA,2014-03-24,NA,NA,NA,NA,NA,Big Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Water high. Surveyed sunny side - no egg masses found [2024 note- the ""sunny side"" likely refers to surveying the North lakeshore only]",RAAU,0,NA,NA
+Blackberry Lake_2014-03-24_1,NA,NA,NA,2014-03-24,NA,NA,NA,NA,NA,Blackberry Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not surveyed water levels too high,NA,NA,NA,NA
+Deep Lake_2014-03-24_1,NA,NA,NA,2014-03-24,NA,NA,NA,NA,NA,Deep Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Water high. Surveyed sunny side - no egg masses found, so stopped survey with that.  Photo Point 36 taken [2024 note- the ""sunny side"" likely refers to surveying the North lakeshore only]",AMGR,0,NA,"Sunny, warm (low 60s)"
+Deep Lake_2014-03-24_1,NA,NA,NA,2014-03-24,NA,NA,NA,NA,NA,Deep Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Water high. Surveyed sunny side - no egg masses found, so stopped survey with that.  Photo Point 36 taken [2024 note- the ""sunny side"" likely refers to surveying the North lakeshore only]",RAAU,0,NA,"Sunny, warm (low 60s)"
+Small Lake_2014-03-24_1,NA,NA,NA,2014-03-24,NA,NA,NA,NA,NA,Small Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not surveyed water levels too high,NA,NA,NA,NA
+Wood Lake_2014-03-24_1,NA,NA,NA,2014-03-24,NA,NA,NA,NA,NA,Wood Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not surveyed water levels too high,NA,NA,NA,NA
+14 Lakes_2015-03-01_1,NA,NA,NA,2015-03-01,NA,NA,NA,NA,NA,14 Lakes,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,No survey - water levels too high,NA,NA,NA,NA
+Big Lake_2016-03-30_1,NA,NA,NA,2016-03-30,NA,NA,NA,NA,NA,Big Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,22,NA,NA
+Big Lake_2016-03-30_1,NA,NA,NA,2016-03-30,NA,NA,NA,NA,NA,Big Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,"heard adults calling, egg masses too numerous to count",PSRE,NA,NA,NA
+Big Lake_2016-03-30_1,NA,NA,NA,2016-03-30,NA,NA,NA,NA,NA,Big Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Water levels very high, but clear, sunny, no wind, and water clear, so able to see quite deep.",RAAU,95,NA,"Sun, calm, warm (60s)"
+Deep Lake_2016-03-30_1,NA,NA,NA,2016-03-30,NA,NA,NA,NA,NA,Deep Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,7,NA,NA
+Deep Lake_2016-03-30_1,NA,NA,NA,2016-03-30,NA,NA,NA,NA,NA,Deep Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,"heard adults calling, egg masses too numerous to count",PSRE,NA,NA,NA
+Deep Lake_2016-03-30_1,NA,NA,NA,2016-03-30,NA,NA,NA,NA,NA,Deep Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,RAAU,55,NA,NA
+Small Lake_2016-03-30_1,NA,NA,NA,2016-03-30,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AMGR,1,NA,NA
+Small Lake_2016-03-30_1,NA,NA,NA,2016-03-30,NA,NA,NA,NA,NA,Small Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,Water levels very high.  Survey only northeast portion.,RAAU,1,NA,NA
+Blackberry Lake_2016-03-31_1,NA,NA,NA,2016-03-31,NA,NA,NA,NA,NA,Blackberry Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,Took photo points.  Water too high to survey,NA,NA,NA,NA
+Wood Lake_2016-03-31_1,NA,NA,NA,2016-03-31,NA,NA,NA,NA,NA,Wood Lake,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,Took photo points.  Water too high to survey,NA,NA,NA,NA
+14 Lakes_2017-03-01_1,NA,NA,NA,2017-03-01,NA,NA,NA,NA,NA,14 Lakes,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,No survey - water levels too high,NA,NA,NA,NA
+14 Lakes_2018-03-01_1,NA,NA,NA,2018-03-01,NA,NA,NA,NA,NA,14 Lakes,Nickelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,No survey - water levels too high,NA,NA,NA,NA
+14 Lakes_2019-03-01_1,NA,NA,NA,2019-03-01,NA,NA,NA,NA,NA,14 Lakes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No survey - no biologist,NA,NA,NA,NA
+14 Lakes_2020-03-01_1,NA,NA,NA,2020-03-01,NA,NA,NA,NA,NA,14 Lakes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No survey - no fieldwork due to COVID-19,NA,NA,NA,NA
+Big + Deep Connected_2021-03-19_1,NA,NA,NA,2021-03-19,11:43:00,14:00:00,NA,2:17,3/19/2021 13:56,Big + Deep Connected,Alex May,Mostly Cloudy,NA,NA,NA,NA,NA,NA,NA,wading,NA,AMGR,11,NA,NA
+Big + Deep Connected_2021-03-19_1,NA,NA,NA,2021-03-19,11:43:00,14:00:00,NA,2:17,3/19/2021 13:56,Big + Deep Connected,Alex May,Mostly Cloudy,NA,NA,NA,NA,NA,NA,NA,wading,NA,AMMA,0,NA,NA
+Big + Deep Connected_2021-03-19_1,NA,NA,NA,2021-03-19,11:43:00,14:00:00,NA,2:17,3/19/2021 13:56,Big + Deep Connected,Alex May,Mostly Cloudy,NA,NA,NA,NA,NA,NA,NA,wading,NA,PSRE,1,NA,NA
+Big + Deep Connected_2021-03-19_1,NA,NA,NA,2021-03-19,11:43:00,14:00:00,NA,2:17,3/19/2021 13:56,Big + Deep Connected,Alex May,Mostly Cloudy,NA,NA,NA,NA,NA,NA,NA,wading,NA,RAAU,87,NA,NA
+Big + Deep Connected_2021-03-26_1,47.398317,-121.892961,10,2021-03-26,12:39:30,14:52:00,NA,2:12,3/26/2021 14:48,Big + Deep Connected,"Alex May, Zoe Nelson",Overcast,None,Calm,No,NA,No,NA,Clear,walk,NA,AMGR,4,NA,NA
+Big + Deep Connected_2021-03-26_1,47.398317,-121.892961,10,2021-03-26,12:39:30,14:52:00,NA,2:12,3/26/2021 14:48,Big + Deep Connected,"Alex May, Zoe Nelson",Overcast,None,Calm,No,NA,No,NA,Clear,walk,NA,AMMA,3,NA,NA
+Big + Deep Connected_2021-03-26_1,47.398317,-121.892961,10,2021-03-26,12:39:30,14:52:00,NA,2:12,3/26/2021 14:48,Big + Deep Connected,"Alex May, Zoe Nelson",Overcast,None,Calm,No,NA,No,NA,Clear,walk,NA,PSRE,0,NA,NA
+Big + Deep Connected_2021-03-26_1,47.398317,-121.892961,10,2021-03-26,12:39:30,14:52:00,NA,2:12,3/26/2021 14:48,Big + Deep Connected,"Alex May, Zoe Nelson",Overcast,None,Calm,No,NA,No,NA,Clear,walk,NA,RAAU,51,NA,NA
+Big + Deep Connected_2021-03-31_1,47.398638,-121.893347,5,2021-03-31,11:58:13,16:29:00,NA,4:30,3/31/2021 16:20,Big + Deep Connected,Alex May,Clear,None,Calm,No,53,No,NA,Clear,wading,breeze picked up and calmed down during survey,AMGR,59,NA,NA
+Big + Deep Connected_2021-03-31_1,47.398638,-121.893347,5,2021-03-31,11:58:13,16:29:00,NA,4:30,3/31/2021 16:20,Big + Deep Connected,Alex May,Clear,None,Calm,No,53,No,NA,Clear,wading,breeze picked up and calmed down during survey,AMMA,19,NA,NA
+Big + Deep Connected_2021-03-31_1,47.398638,-121.893347,5,2021-03-31,11:58:13,16:29:00,NA,4:30,3/31/2021 16:20,Big + Deep Connected,Alex May,Clear,None,Calm,No,53,No,NA,Clear,wading,breeze picked up and calmed down during survey,PSRE,67,NA,NA
+Big + Deep Connected_2021-03-31_1,47.398638,-121.893347,5,2021-03-31,11:58:13,16:29:00,NA,4:30,3/31/2021 16:20,Big + Deep Connected,Alex May,Clear,None,Calm,No,53,No,NA,Clear,wading,breeze picked up and calmed down during survey,RAAU,188,NA,NA
+Small Lake_2021-04-06_1,47.397395,-121.893433,10,2021-04-06,14:32:42,15:04:00,NA,0:31,4/6/2021 15:02,Small Lake,Alex May,Clear,None,Light,No,55,No,NA,Stained,walk,NA,AMGR,12,NA,NA
+Small Lake_2021-04-06_1,47.397395,-121.893433,10,2021-04-06,14:32:42,15:04:00,NA,0:31,4/6/2021 15:02,Small Lake,Alex May,Clear,None,Light,No,55,No,NA,Stained,walk,NA,AMMA,0,NA,NA
+Small Lake_2021-04-06_1,47.397395,-121.893433,10,2021-04-06,14:32:42,15:04:00,NA,0:31,4/6/2021 15:02,Small Lake,Alex May,Clear,None,Light,No,55,No,NA,Stained,walk,NA,PSRE,7,NA,NA
+Small Lake_2021-04-06_1,47.397395,-121.893433,10,2021-04-06,14:32:42,15:04:00,NA,0:31,4/6/2021 15:02,Small Lake,Alex May,Clear,None,Light,No,55,No,NA,Stained,walk,NA,RAAU,14,NA,NA
+Wood Lake_2021-04-06_1,47.397882,-121.885305,10,2021-04-06,11:54:36,13:23:00,NA,1:28,4/6/2021 13:21,Wood Lake,Alex May,Clear,None,Light,Yes,47,Yes,42,Clear,wading,difficult bushwhacking and not a great survey,AMGR,22,NA,NA
+Wood Lake_2021-04-06_1,47.397882,-121.885305,10,2021-04-06,11:54:36,13:23:00,NA,1:28,4/6/2021 13:21,Wood Lake,Alex May,Clear,None,Light,Yes,47,Yes,42,Clear,wading,difficult bushwhacking and not a great survey,AMMA,0,NA,NA
+Wood Lake_2021-04-06_1,47.397882,-121.885305,10,2021-04-06,11:54:36,13:23:00,NA,1:28,4/6/2021 13:21,Wood Lake,Alex May,Clear,None,Light,Yes,47,Yes,42,Clear,wading,difficult bushwhacking and not a great survey,PSRE,1,NA,NA
+Wood Lake_2021-04-06_1,47.397882,-121.885305,10,2021-04-06,11:54:36,13:23:00,NA,1:28,4/6/2021 13:21,Wood Lake,Alex May,Clear,None,Light,Yes,47,Yes,42,Clear,wading,difficult bushwhacking and not a great survey,RAAU,31,NA,NA
+Big + Deep Connected_2022-03-22_1,47.399323,-121.89118,10,2022-03-22,13:58:48,15:48:00,NA,1:49,3/22/2022 15:41,Big + Deep Connected,Alex May,Partly Cloudy,Light Rain,Calm,Yes,66,Yes,49.6,Clear,wading,NA,AMGR,6,NA,NA
+Big + Deep Connected_2022-03-22_1,47.399323,-121.89118,10,2022-03-22,13:58:48,15:48:00,NA,1:49,3/22/2022 15:41,Big + Deep Connected,Alex May,Partly Cloudy,Light Rain,Calm,Yes,66,Yes,49.6,Clear,wading,NA,AMMA,0,NA,NA
+Big + Deep Connected_2022-03-22_1,47.399323,-121.89118,10,2022-03-22,13:58:48,15:48:00,NA,1:49,3/22/2022 15:41,Big + Deep Connected,Alex May,Partly Cloudy,Light Rain,Calm,Yes,66,Yes,49.6,Clear,wading,NA,PSRE,78,NA,NA
+Big + Deep Connected_2022-03-22_1,47.399323,-121.89118,10,2022-03-22,13:58:48,15:48:00,NA,1:49,3/22/2022 15:41,Big + Deep Connected,Alex May,Partly Cloudy,Light Rain,Calm,Yes,66,Yes,49.6,Clear,wading,NA,RAAU,47,NA,NA
+Wood Lake_2022-03-24_1,47.39775,-121.885233,5,2022-03-24,14:38:13,16:10:00,1:22:00,1:22,3/24/2022 16:07,Wood Lake,Alex May,Partly Cloudy,None,Calm,Yes,53.7,Yes,48.6,Stained,wading,NA,AMGR,22,NA,NA
+Wood Lake_2022-03-24_1,47.39775,-121.885233,5,2022-03-24,14:38:13,16:10:00,1:22:00,1:22,3/24/2022 16:07,Wood Lake,Alex May,Partly Cloudy,None,Calm,Yes,53.7,Yes,48.6,Stained,wading,NA,AMMA,1,NA,NA
+Wood Lake_2022-03-24_1,47.39775,-121.885233,5,2022-03-24,14:38:13,16:10:00,1:22:00,1:22,3/24/2022 16:07,Wood Lake,Alex May,Partly Cloudy,None,Calm,Yes,53.7,Yes,48.6,Stained,wading,NA,PSRE,0,NA,NA
+Wood Lake_2022-03-24_1,47.39775,-121.885233,5,2022-03-24,14:38:13,16:10:00,1:22:00,1:22,3/24/2022 16:07,Wood Lake,Alex May,Partly Cloudy,None,Calm,Yes,53.7,Yes,48.6,Stained,wading,NA,RAAU,7,NA,NA
+Big + Deep Connected_2022-03-25_1,47.398634,-121.893243,5,2022-03-25,11:46:07,NA,2:54:14,2:54,3/25/2022 15:35,Big + Deep Connected,Alex May,Partly Cloudy,None,Calm,Yes,54.2,Yes,48.9,Clear,wading,NA,AMGR,12,NA,NA
+Big + Deep Connected_2022-03-25_1,47.398634,-121.893243,5,2022-03-25,11:46:07,NA,2:54:14,2:54,3/25/2022 15:35,Big + Deep Connected,Alex May,Partly Cloudy,None,Calm,Yes,54.2,Yes,48.9,Clear,wading,NA,AMMA,0,NA,NA
+Big + Deep Connected_2022-03-25_1,47.398634,-121.893243,5,2022-03-25,11:46:07,NA,2:54:14,2:54,3/25/2022 15:35,Big + Deep Connected,Alex May,Partly Cloudy,None,Calm,Yes,54.2,Yes,48.9,Clear,wading,NA,PSRE,212,NA,NA
+Big + Deep Connected_2022-03-25_1,47.398634,-121.893243,5,2022-03-25,11:46:07,NA,2:54:14,2:54,3/25/2022 15:35,Big + Deep Connected,Alex May,Partly Cloudy,None,Calm,Yes,54.2,Yes,48.9,Clear,wading,NA,RAAU,43,NA,NA
+Small Lake_2022-03-25_1,47.397343,-121.893367,5,2022-03-25,14:48:47,12:07:00,0:21:25,0:21,3/25/2022 15:05,Small Lake,Alex May,Partly Cloudy,None,Light,No,NA,No,NA,Stained,wading,NA,AMGR,1,NA,NA
+Small Lake_2022-03-25_1,47.397343,-121.893367,5,2022-03-25,14:48:47,12:07:00,0:21:25,0:21,3/25/2022 15:05,Small Lake,Alex May,Partly Cloudy,None,Light,No,NA,No,NA,Stained,wading,NA,AMMA,0,NA,NA
+Small Lake_2022-03-25_1,47.397343,-121.893367,5,2022-03-25,14:48:47,12:07:00,0:21:25,0:21,3/25/2022 15:05,Small Lake,Alex May,Partly Cloudy,None,Light,No,NA,No,NA,Stained,wading,NA,PSRE,1,NA,NA
+Small Lake_2022-03-25_1,47.397343,-121.893367,5,2022-03-25,14:48:47,12:07:00,0:21:25,0:21,3/25/2022 15:05,Small Lake,Alex May,Partly Cloudy,None,Light,No,NA,No,NA,Stained,wading,NA,RAAU,3,NA,NA
+Blackberry Lake_2022-03-29_1,47.398178,-121.887738,5,2022-03-29,13:05:57,NA,1:06:27,1:06,3/29/2022 14:01,Blackberry Lake,Alex May,Overcast,None,Calm,Yes,54.2,Yes,50.5,Stained,wading,NA,AMGR,0,NA,NA
+Blackberry Lake_2022-03-29_1,47.398178,-121.887738,5,2022-03-29,13:05:57,NA,1:06:27,1:06,3/29/2022 14:01,Blackberry Lake,Alex May,Overcast,None,Calm,Yes,54.2,Yes,50.5,Stained,wading,NA,AMMA,0,NA,NA
+Blackberry Lake_2022-03-29_1,47.398178,-121.887738,5,2022-03-29,13:05:57,NA,1:06:27,1:06,3/29/2022 14:01,Blackberry Lake,Alex May,Overcast,None,Calm,Yes,54.2,Yes,50.5,Stained,wading,NA,PSRE,2,NA,NA
+Blackberry Lake_2022-03-29_1,47.398178,-121.887738,5,2022-03-29,13:05:57,NA,1:06:27,1:06,3/29/2022 14:01,Blackberry Lake,Alex May,Overcast,None,Calm,Yes,54.2,Yes,50.5,Stained,wading,NA,RAAU,2,NA,NA
+Big + Deep Connected_2022-03-31_1,47.398394,-121.893044,10,2022-03-31,13:42:51,NA,NA,1:54,3/31/2022 15:36,Big + Deep Connected,Alex May,Overcast,None,Light,Yes,45.3,Yes,50.5,Stained,Canoe Survey,NA,AMGR,2,NA,NA
+Big + Deep Connected_2022-03-31_1,47.398394,-121.893044,10,2022-03-31,13:42:51,NA,NA,1:54,3/31/2022 15:36,Big + Deep Connected,Alex May,Overcast,None,Light,Yes,45.3,Yes,50.5,Stained,Canoe Survey,NA,AMMA,0,NA,NA
+Big + Deep Connected_2022-03-31_1,47.398394,-121.893044,10,2022-03-31,13:42:51,NA,NA,1:54,3/31/2022 15:36,Big + Deep Connected,Alex May,Overcast,None,Light,Yes,45.3,Yes,50.5,Stained,Canoe Survey,NA,PSRE,0,NA,NA
+Big + Deep Connected_2022-03-31_1,47.398394,-121.893044,10,2022-03-31,13:42:51,NA,NA,1:54,3/31/2022 15:36,Big + Deep Connected,Alex May,Overcast,None,Light,Yes,45.3,Yes,50.5,Stained,Canoe Survey,NA,RAAU,314,NA,NA
+Big + Deep Connected_2022-04-01_1,47.398543,-121.893785,10,2022-04-01,13:39:29,NA,NA,1:08,4/1/2022 14:47,Big + Deep Connected,Alex May,Partly Cloudy,None,Light,Yes,61.7,Yes,50.9,Clear,Canoe Survey,NA,AMGR,0,NA,NA
+Big + Deep Connected_2022-04-01_1,47.398543,-121.893785,10,2022-04-01,13:39:29,NA,NA,1:08,4/1/2022 14:47,Big + Deep Connected,Alex May,Partly Cloudy,None,Light,Yes,61.7,Yes,50.9,Clear,Canoe Survey,NA,AMMA,0,NA,NA
+Big + Deep Connected_2022-04-01_1,47.398543,-121.893785,10,2022-04-01,13:39:29,NA,NA,1:08,4/1/2022 14:47,Big + Deep Connected,Alex May,Partly Cloudy,None,Light,Yes,61.7,Yes,50.9,Clear,Canoe Survey,NA,PSRE,0,NA,NA
+Big + Deep Connected_2022-04-01_1,47.398543,-121.893785,10,2022-04-01,13:39:29,NA,NA,1:08,4/1/2022 14:47,Big + Deep Connected,Alex May,Partly Cloudy,None,Light,Yes,61.7,Yes,50.9,Clear,Canoe Survey,NA,RAAU,381,NA,NA
+Big Lake_2023-03-21_1,47.398207,-121.893192,5,2023-03-21,13:41:03,14:22:00,NA,0:40,3/21/2023 14:18,Big Lake,Alex May,Partly Cloudy,None,Light,Yes,50.4,Yes,52,Clear,walk,NA,AMGR,0,NA,NA
+Big Lake_2023-03-21_1,47.398207,-121.893192,5,2023-03-21,13:41:03,14:22:00,NA,0:40,3/21/2023 14:18,Big Lake,Alex May,Partly Cloudy,None,Light,Yes,50.4,Yes,52,Clear,walk,NA,AMMA,0,NA,NA
+Big Lake_2023-03-21_1,47.398207,-121.893192,5,2023-03-21,13:41:03,14:22:00,NA,0:40,3/21/2023 14:18,Big Lake,Alex May,Partly Cloudy,None,Light,Yes,50.4,Yes,52,Clear,walk,NA,PSRE,2,NA,NA
+Big Lake_2023-03-21_1,47.398207,-121.893192,5,2023-03-21,13:41:03,14:22:00,NA,0:40,3/21/2023 14:18,Big Lake,Alex May,Partly Cloudy,None,Light,Yes,50.4,Yes,52,Clear,walk,NA,RAAU,21,NA,NA
+Big Lake_2023-03-21_2,NA,NA,NA,2023-03-21,14:30:00,14:50:00,NA,0:20,NA,Big Lake,Alex May,NA,NA,NA,NA,NA,NA,NA,NA,Canoe Survey,NA,AMGR,NA,NA,NA
+Big Lake_2023-03-21_2,NA,NA,NA,2023-03-21,14:30:00,14:50:00,NA,0:20,NA,Big Lake,Alex May,NA,NA,NA,NA,NA,NA,NA,NA,Canoe Survey,NA,AMMA,NA,NA,NA
+Big Lake_2023-03-21_2,NA,NA,NA,2023-03-21,14:30:00,14:50:00,NA,0:20,NA,Big Lake,Alex May,NA,NA,NA,NA,NA,NA,NA,NA,Canoe Survey,NA,PSRE,NA,NA,NA
+Big Lake_2023-03-21_2,NA,NA,NA,2023-03-21,14:30:00,14:50:00,NA,0:20,NA,Big Lake,Alex May,NA,NA,NA,NA,NA,NA,NA,NA,Canoe Survey,NA,RAAU,23,NA,NA
+Blackberry Lake_2023-03-22_1,47.39754,-121.887693,30,2023-03-22,15:30:52,16:02:00,NA,0:31,3/22/2023 16:00,Blackberry Lake,Alex May,Clear,None,Light,Yes,60.4,Yes,47.7,Clear,walk,NA,AMGR,0,NA,NA
+Blackberry Lake_2023-03-22_1,47.39754,-121.887693,30,2023-03-22,15:30:52,16:02:00,NA,0:31,3/22/2023 16:00,Blackberry Lake,Alex May,Clear,None,Light,Yes,60.4,Yes,47.7,Clear,walk,NA,AMMA,0,NA,NA
+Blackberry Lake_2023-03-22_1,47.39754,-121.887693,30,2023-03-22,15:30:52,16:02:00,NA,0:31,3/22/2023 16:00,Blackberry Lake,Alex May,Clear,None,Light,Yes,60.4,Yes,47.7,Clear,walk,NA,PSRE,0,NA,NA
+Blackberry Lake_2023-03-22_1,47.39754,-121.887693,30,2023-03-22,15:30:52,16:02:00,NA,0:31,3/22/2023 16:00,Blackberry Lake,Alex May,Clear,None,Light,Yes,60.4,Yes,47.7,Clear,walk,NA,RAAU,98,NA,NA
+Deep Lake_2023-03-22_1,47.397937,-121.890651,10,2023-03-22,13:00:36,14:01:00,NA,1:00,3/22/2023 14:01,Deep Lake,Alex May,Clear,None,Calm,Yes,56,Yes,46.4,Clear,walk,NA,AMGR,0,NA,NA
+Deep Lake_2023-03-22_1,47.397937,-121.890651,10,2023-03-22,13:00:36,14:01:00,NA,1:00,3/22/2023 14:01,Deep Lake,Alex May,Clear,None,Calm,Yes,56,Yes,46.4,Clear,walk,NA,AMMA,0,NA,NA
+Deep Lake_2023-03-22_1,47.397937,-121.890651,10,2023-03-22,13:00:36,14:01:00,NA,1:00,3/22/2023 14:01,Deep Lake,Alex May,Clear,None,Calm,Yes,56,Yes,46.4,Clear,walk,NA,PSRE,1,NA,NA
+Deep Lake_2023-03-22_1,47.397937,-121.890651,10,2023-03-22,13:00:36,14:01:00,NA,1:00,3/22/2023 14:01,Deep Lake,Alex May,Clear,None,Calm,Yes,56,Yes,46.4,Clear,walk,NA,RAAU,196,NA,NA
+Deep Lake_2023-03-22_2,NA,NA,NA,2023-03-22,14:39:00,15:15:00,NA,0:36,NA,Deep Lake,Alex May,NA,NA,NA,NA,NA,NA,NA,NA,Canoe Survey,NA,AMGR,NA,NA,NA
+Deep Lake_2023-03-22_2,NA,NA,NA,2023-03-22,14:39:00,15:15:00,NA,0:36,NA,Deep Lake,Alex May,NA,NA,NA,NA,NA,NA,NA,NA,Canoe Survey,NA,AMMA,NA,NA,NA
+Deep Lake_2023-03-22_2,NA,NA,NA,2023-03-22,14:39:00,15:15:00,NA,0:36,NA,Deep Lake,Alex May,NA,NA,NA,NA,NA,NA,NA,NA,Canoe Survey,NA,PSRE,NA,NA,NA
+Deep Lake_2023-03-22_2,NA,NA,NA,2023-03-22,14:39:00,15:15:00,NA,0:36,NA,Deep Lake,Alex May,NA,NA,NA,NA,NA,NA,NA,NA,Canoe Survey,NA,RAAU,170,NA,NA
+Small Lake_2023-03-27_1,47.397031,-121.893559,10,2023-03-27,13:53:35,14:20:00,NA,0:26,3/27/2023 14:19,Small Lake,Alex May,Partly Cloudy,None,Light,Yes,55.2,Yes,44.1,Clear,walk,NA,AMGR,1,NA,NA
+Small Lake_2023-03-27_1,47.397031,-121.893559,10,2023-03-27,13:53:35,14:20:00,NA,0:26,3/27/2023 14:19,Small Lake,Alex May,Partly Cloudy,None,Light,Yes,55.2,Yes,44.1,Clear,walk,NA,AMMA,0,NA,NA
+Small Lake_2023-03-27_1,47.397031,-121.893559,10,2023-03-27,13:53:35,14:20:00,NA,0:26,3/27/2023 14:19,Small Lake,Alex May,Partly Cloudy,None,Light,Yes,55.2,Yes,44.1,Clear,walk,NA,PSRE,0,NA,NA
+Small Lake_2023-03-27_1,47.397031,-121.893559,10,2023-03-27,13:53:35,14:20:00,NA,0:26,3/27/2023 14:19,Small Lake,Alex May,Partly Cloudy,None,Light,Yes,55.2,Yes,44.1,Clear,walk,NA,RAAU,43,NA,NA
+Wood Lake_2023-03-27_1,47.397578,-121.885621,10,2023-03-27,15:09:42,NA,NA,0:05,3/27/2023 15:15,Wood Lake,Alex May,Partly Cloudy,None,Light,Yes,54.6,Yes,53.2,Clear,walk,Incomplete Survey,AMGR,1,NA,NA
+Wood Lake_2023-03-27_1,47.397578,-121.885621,10,2023-03-27,15:09:42,NA,NA,0:05,3/27/2023 15:15,Wood Lake,Alex May,Partly Cloudy,None,Light,Yes,54.6,Yes,53.2,Clear,walk,Incomplete Survey,AMMA,0,NA,NA
+Wood Lake_2023-03-27_1,47.397578,-121.885621,10,2023-03-27,15:09:42,NA,NA,0:05,3/27/2023 15:15,Wood Lake,Alex May,Partly Cloudy,None,Light,Yes,54.6,Yes,53.2,Clear,walk,Incomplete Survey,PSRE,1,NA,NA
+Wood Lake_2023-03-27_1,47.397578,-121.885621,10,2023-03-27,15:09:42,NA,NA,0:05,3/27/2023 15:15,Wood Lake,Alex May,Partly Cloudy,None,Light,Yes,54.6,Yes,53.2,Clear,walk,Incomplete Survey,RAAU,37,NA,NA
+Deep Lake_2023-03-30_1,NA,NA,NA,2023-03-30,15:00:00,15:30:00,NA,0:30,NA,Deep Lake,Alex May,Overcast,NA,Light,NA,NA,NA,NA,NA,Canoe Survey,Challenging conditions compared to previous canoe survey. Wind pushed boat around,AMGR,NA,NA,NA
+Deep Lake_2023-03-30_1,NA,NA,NA,2023-03-30,15:00:00,15:30:00,NA,0:30,NA,Deep Lake,Alex May,Overcast,NA,Light,NA,NA,NA,NA,NA,Canoe Survey,Challenging conditions compared to previous canoe survey. Wind pushed boat around,AMMA,NA,NA,NA
+Deep Lake_2023-03-30_1,NA,NA,NA,2023-03-30,15:00:00,15:30:00,NA,0:30,NA,Deep Lake,Alex May,Overcast,NA,Light,NA,NA,NA,NA,NA,Canoe Survey,Challenging conditions compared to previous canoe survey. Wind pushed boat around,PSRE,NA,NA,NA
+Deep Lake_2023-03-30_1,NA,NA,NA,2023-03-30,15:00:00,15:30:00,NA,0:30,NA,Deep Lake,Alex May,Overcast,NA,Light,NA,NA,NA,NA,NA,Canoe Survey,Challenging conditions compared to previous canoe survey. Wind pushed boat around,RAAU,137,NA,NA
+Wood Lake_2023-03-30_1,47.397597,-121.885551,10,2023-03-30,13:01:43,14:10:00,NA,1:08,3/30/2023 14:09,Wood Lake,Alex May,Partly Cloudy,None,Light,Yes,54.1,Yes,48.6,Clear,walk,NA,AMGR,66,NA,NA
+Wood Lake_2023-03-30_1,47.397597,-121.885551,10,2023-03-30,13:01:43,14:10:00,NA,1:08,3/30/2023 14:09,Wood Lake,Alex May,Partly Cloudy,None,Light,Yes,54.1,Yes,48.6,Clear,walk,NA,AMMA,0,NA,NA
+Wood Lake_2023-03-30_1,47.397597,-121.885551,10,2023-03-30,13:01:43,14:10:00,NA,1:08,3/30/2023 14:09,Wood Lake,Alex May,Partly Cloudy,None,Light,Yes,54.1,Yes,48.6,Clear,walk,NA,PSRE,0,NA,NA
+Wood Lake_2023-03-30_1,47.397597,-121.885551,10,2023-03-30,13:01:43,14:10:00,NA,1:08,3/30/2023 14:09,Wood Lake,Alex May,Partly Cloudy,None,Light,Yes,54.1,Yes,48.6,Clear,walk,NA,RAAU,190,NA,NA
