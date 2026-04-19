@@ -87,11 +87,13 @@ CREATE TABLE surveys (
 DROP TABLE IF EXISTS egg_masses;
 CREATE TABLE egg_masses (
   egg_mass_id serial PRIMARY KEY,
+  og_id varchar(100) NOT NULL,
   mass_time timestamptz NOT NULL,
   mass_lat numeric(9,6),
   mass_lon numeric(9,6),
   mass_accuracy smallint,
   num_egg_masses smallint NOT NULL,
+  mass_comments varchar(300), 
   species_id char(4) REFERENCES species(species_id),
   substrate_id smallint REFERENCES substrates(substrate_id),
   survey_id int REFERENCES surveys(survey_id),
@@ -110,6 +112,7 @@ CREATE TABLE survey_results (
   results_id serial PRIMARY KEY,
   total_egg_masses int,
   num_adults int,
+  comments varchar(300),
   species_id char(4) REFERENCES species(species_id),
   survey_id int REFERENCES surveys(survey_id),
   CONSTRAINT positive_tot_masses
@@ -200,27 +203,31 @@ COMMIT;
 START TRANSACTION;
 
 INSERT INTO surveys(og_id, date, s_lat, s_lon, s_accuracy, start_time, end_time, 
-  last_obs_time, weather_comments, s_sunshine, s_precip, s_wind, 
+  last_obs_time, s_sunshine, s_precip, s_wind, 
   s_air_thermometer, s_air_temp, s_water_thermometer, s_water_temp, 
-  water_color, survey_type)
-SELECT DISTINCT SurveyID, Date, Latitude::numeric, Longitude::numeric, Accuracy_m::numeric, 
-  CAST(Date as date) + CAST(StartTime as time),
-  CAST(Date as date) + CAST(EndTime as time),
-  CAST(Date as date) + CAST(latest_observation_time as time),
-  Weather, Sky, Precip, Wind, 
-  CASE WHEN AirThermometer = 'Yes' THEN TRUE 
-  WHEN airthermometer = 'No' THEN FALSE 
-  ELSE NULL END, airtemperature_f::numeric,
-  CASE WHEN waterthermometer = 'Yes' THEN TRUE 
-  WHEN waterthermometer = 'No' THEN FALSE 
-  ELSE NULL END, watertemperature_f::numeric, watercolor, surveytype
-FROM staging_survey;
+  water_color, survey_type, lake_id)
+SELECT DISTINCT s.SurveyID, s.Date, s.Latitude::numeric, s.Longitude::numeric, s.Accuracy_m::numeric, 
+  CAST(s.Date as date) + CAST(s.StartTime as time),
+  CAST(s.Date as date) + CAST(s.EndTime as time),
+  CAST(s.Date as date) + CAST(s.latest_observation_time as time),
+  s.Sky, s.Precip, Wind, 
+  CASE WHEN s.AirThermometer = 'Yes' THEN TRUE 
+  WHEN s.airthermometer = 'No' THEN FALSE 
+  ELSE NULL END, s.airtemperature_f::numeric,
+  CASE WHEN s.waterthermometer = 'Yes' THEN TRUE 
+  WHEN s.waterthermometer = 'No' THEN FALSE 
+  ELSE NULL END, s.watertemperature_f::numeric, s.watercolor, s.surveytype, 
+  l.lake_id
+FROM staging_survey AS s
+JOIN lakes AS l ON s.lake = l.lake_name;
 
 SELECT count(*) AS survey_count FROM surveys;
+SELECT og_id, date FROM surveys
+ORDER BY date, og_id;
+
+COMMIT;
 
 START TRANSACTION;
-
-SELECT regexp_split_to_table(Observer, ', ') AS split_obs FROM staging_survey LIMIT 20;
 
 INSERT INTO observers(observer_name)
 SELECT DISTINCT regexp_split_to_table(Observer, ', ')
@@ -228,9 +235,7 @@ FROM staging_survey;
 
 SELECT count(*) as observers_count FROM observers;
 
-SELECT regexp_split_to_table(Observer, ', '), SurveyID
-FROM staging_survey
-LIMIT 20;
+COMMIT;
 
 DROP TABLE observer_staging;
 CREATE TABLE observer_staging (
@@ -241,12 +246,14 @@ CREATE TABLE observer_staging (
   observer varchar(200)
 );
 
+START TRANSACTION; 
+
 INSERT INTO observer_staging(og_id, observer, date, survey_id)
 SELECT DISTINCT s.surveyid, regexp_split_to_table(s.Observer, ', '), s.date, su.survey_id
 FROM staging_survey AS s
 JOIN surveys AS su ON s.surveyid = su.og_id;
 
-SELECT count(*) AS survey_count FROM observer_staging;
+SELECT count(*) AS staging_count FROM observer_staging;
 SELECT * FROM observer_staging LIMIT 6;
 
 INSERT INTO observer_surveys(observer_id, survey_id)
@@ -257,5 +264,26 @@ JOIN surveys AS s ON os.og_id = s.og_id;
 
 SELECT count(*) AS observer_surveys_count FROM observer_surveys;
 SELECT * FROM observer_surveys LIMIT 6;
+
+COMMIT;
+
+START TRANSACTION;
+
+INSERT INTO survey_results(total_egg_masses, num_adults, species_id, survey_id, comments)
+SELECT st.numberofeggmasses::numeric, st.numberofadults::numeric, st.speciescode, su.survey_id, st.comments
+FROM staging_survey AS st
+JOIN surveys AS su ON st.surveyid = su.og_id;
+
+SELECT count(*) AS results_count FROM survey_results;
+
+INSERT INTO egg_masses(og_id, mass_time, mass_lat, mass_lon, mass_accuracy, num_egg_masses, 
+  mass_comments, species_id, substrate_id, survey_id)
+SELECT m.surveyid, m.datetime::timestamptz, m.latitude::numeric, m.longitude::numeric, m.accuracy_m::numeric, m.numberofeggmasses::numeric, 
+  m.comments, m.speciescode, su.substrate_id, s.survey_id
+FROM staging_masses AS m
+JOIN surveys AS s ON m.surveyid = s.og_id
+JOIN substrates AS su ON m.eggmasssubstrate = su.substrate_name;
+
+SELECT count(*) AS masses_count FROM egg_masses;
 
 COMMIT;
