@@ -1,5 +1,5 @@
 -- CREATE DATABASE amphibian_mass;
-
+DROP TABLE staging_masses;
 CREATE TABLE staging_masses(
 SurveyID VARCHAR(63),
 DateTime VARCHAR(63),
@@ -12,6 +12,7 @@ EggMassSubstrate VARCHAR(63),
 Comments VARCHAR(255)
 );
 
+DROP TABLE staging_survey;
 CREATE TABLE staging_survey(
   SurveyID VARCHAR(35),
   Latitude VARCHAR(63),
@@ -56,7 +57,8 @@ COPY staging_masses(
 )
 FROM '/tmp/EggMasses.csv'
 DELIMITER ','
-CSV HEADER;
+CSV HEADER
+NULL 'NA';
 
 COPY staging_weather(
 time,
@@ -100,8 +102,11 @@ COPY staging_survey(
   Weather) 
 FROM '/tmp/SurveyResults.csv'
 DELIMITER ','
-CSV HEADER;
+CSV HEADER
+NULL 'NA';
 
 SELECT COUNT(*) FROM staging_masses;
 SELECT COUNT(*) FROM staging_weather;
 SELECT COUNT(*) FROM staging_survey;
+
+
