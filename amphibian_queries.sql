@@ -295,7 +295,6 @@ WITH survey_totals AS (
 SELECT 
   round(avg(precip_sum), 2) AS avg_precip,
   date_part('week', date) AS week,
-  --avg(date_part('month', date)) AS month,
   count(id) AS num_surveys,
   round(avg(survey_total_masses), 4) AS avg_masses,
   percentile_cont(0.5) WITHIN GROUP (ORDER BY survey_total_masses) AS med_masses,
@@ -331,6 +330,37 @@ SELECT round(avg(survey_total_masses), 2) AS avg_masses,
 FROM observer_counts
 GROUP BY num_observers
 ORDER BY avg_masses DESC;
+
+-- with weeks
+WITH survey_totals AS (
+  SELECT s.survey_id AS id, o.observer_name, 
+    --count(s.survey_id),
+    sum(sr.total_egg_masses) AS survey_total_masses,
+    s.date
+  FROM surveys AS s
+  JOIN observer_surveys AS os ON s.survey_id = os.survey_id
+  JOIN observers AS o ON os.observer_id = o.observer_id
+  JOIN survey_results AS sr ON s.survey_id = sr.survey_id
+  GROUP BY s.survey_id, o.observer_name, s.date
+  ORDER BY s.date
+), observer_counts AS (
+  SELECT id, date, 
+    (sum(survey_total_masses)/count(id))::int AS survey_total_masses, 
+    count(id) AS num_observers
+  FROM survey_totals
+  GROUP BY id, date
+  ORDER BY date
+)
+SELECT round(avg(num_observers), 2) AS avg_num_obs,
+  percentile_cont(0.5) WITHIN GROUP (ORDER BY num_observers) AS med_num_obs,
+  date_part('week', date) AS week,
+  count(id) AS num_surveys,
+  round(avg(survey_total_masses), 2) AS avg_masses,
+  percentile_cont(0.5) WITHIN GROUP (ORDER BY survey_total_masses) AS med_masses,
+  sum(survey_total_masses) AS sum_masses
+FROM observer_counts
+GROUP BY week
+ORDER BY week;
 
 -- corr
 WITH survey_totals AS (
